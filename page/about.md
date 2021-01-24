@@ -9,11 +9,14 @@ authors:
   - jordan-hawker
 date: Thurs Jan 21 2021 21:50:55 GMT+0800 (PST)
 tags:
+meta:
 ---
 
 Hella Drunk is the brain child of [Jordan Hawker](/author/jordan-hawker) and 
 home to his many imperfect thoughts on the world of spirits! Here you'll find 
 ratings and tasting notes from a wide variety of whiskey, wine, rum, and more.
+
+Don't forget to check out details on our [Hella Drunk Rating (HDR)](/page/ratings) system!
 
 # Our Team
 

@@ -35,6 +35,11 @@ module.exports = function (environment) {
           route: 'index',
         },
         {
+          label: 'Ratings',
+          route: 'page',
+          id: 'ratings',
+        },
+        {
           label: 'About',
           route: 'page',
           id: 'about',
