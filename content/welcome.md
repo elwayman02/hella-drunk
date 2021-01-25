@@ -9,6 +9,8 @@ authors:
   - jordan-hawker
 date: Thu Jan 21 2021 22:59:41 GMT-0800 (Pacific Standard Time)
 tags:
+  - blog
+meta:
 ---
 
 # Glad To See Ya!

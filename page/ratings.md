@@ -236,3 +236,6 @@ Then, we're going to use that basis to explore a few stalwart spirits that are r
 available at any liquor store, to give us good examples of what that spirit should be 
 like and how we feel about it. If we do it well, that will provide a solid foundation 
 from which to launch our rating system. We hope you'll feel the same way, too!
+
+[Understanding Rating Systems](/page/rating-systems) is our primer on different ways the 
+industry rates spirits, as well as why we developed our own scale. Check it out to learn more!
