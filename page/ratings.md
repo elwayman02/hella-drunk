@@ -229,7 +229,7 @@ scale they use ([Fibonacci sequence](https://en.wikipedia.org/wiki/Fibonacci_num
 has no meaning of its own, but rather garners its conceptual orientation from within 
 the system itself. That is, a team decides what kind of task constitutes a *1*, the 
 smallest value that can be assigned. Then, they also decide what might be a *13* or 
-*20*, usually the highest values that get used from the sequence. Once the team has 
+*21*, usually the highest values that get used from the sequence. Once the team has 
 an agreed upon understanding of what it means to assign a task to numbers at both ends 
 of the scale, they can use these concepts to assign future values based on how each 
 new task relates to the previous ones.
