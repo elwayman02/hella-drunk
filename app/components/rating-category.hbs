@@ -1,0 +1,10 @@
+<div class="rating-category" ...attributes>
+  <span class="rating-category__info" data-test-rating-category-info><strong>{{@name}}: {{@rating}}</strong></span>
+  <span class="rating-category__barrels">
+    <RatingIcon @rating={{@rating}} @value="1" data-test-rating-category-icon="1"/>
+    <RatingIcon @rating={{@rating}} @value="2" data-test-rating-category-icon="2"/>
+    <RatingIcon @rating={{@rating}} @value="3" data-test-rating-category-icon="3"/>
+    <RatingIcon @rating={{@rating}} @value="4" data-test-rating-category-icon="4"/>
+    <RatingIcon @rating={{@rating}} @value="5" data-test-rating-category-icon="5"/>
+  </span>
+</div>
