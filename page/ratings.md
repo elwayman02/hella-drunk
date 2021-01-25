@@ -188,7 +188,12 @@ Ugh. There's not much to say about this spirit other than that it's just barely 
 
 Quickly doing the math, we see this spirit scores an abysmal *20* out of a possible 100 
 points! It's very clear that while Spirit B might be ok to try if someone poured it for 
-free, you likely would not enjoy Spirit C on its own. Maybe use it for a cocktail?
+free, you likely would not enjoy Spirit C on its own. Maybe use it as lighter fluid? Ok, 
+we're kidding (mostly), but this kind of score is not something you'd generally want to 
+drink. You might be able to use it for a cocktail or mixed drink, but we're firm believers 
+that poor ingredients make for a poor cocktail. So even then, be careful before you use 
+a less than stellar spirit for your drinks. For more philosophy on the world of cocktails, 
+visit our friends at [The Cocktail Dork](https://www.cocktaildork.com/)!
 
 **Spirit D**
 
