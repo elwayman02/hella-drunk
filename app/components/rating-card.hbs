@@ -1,0 +1,20 @@
+<div class="rating-card" ...attributes>
+  <div class="rating-card__body">
+    <div class="rating-card__left">
+      <h3 class="rating-card__title" data-test-rating-card-title>Our Hella Drunk Rating</h3>
+      <span class="rating-card__categories">
+        <RatingCategory @name="Nose" @rating={{@ratings.nose}} data-test-rating-card-category="nose"/>
+        <RatingCategory @name="Palate" @rating={{@ratings.palate}} data-test-rating-card-category="palate"/>
+        <RatingCategory @name="Finish" @rating={{@ratings.finish}} data-test-rating-card-category="finish"/>
+        <RatingCategory @name="Complexity" @rating={{@ratings.complexity}} data-test-rating-card-category="complexity"/>
+        <RatingCategory @name="Uniqueness" @rating={{@ratings.uniqueness}} data-test-rating-card-category="uniqueness"/>
+      </span>
+    </div>
+    <span class="rating-card__right">
+      <RatingOverall @ratings={{@ratings}} data-test-rating-card-overall/>
+    </span>
+  </div>
+  <div class="rating-card__footer" data-test-rating-card-footer>
+    <LinkTo @route="page" @model="ratings">Learn more</LinkTo> about our rating system
+  </div>
+</div>

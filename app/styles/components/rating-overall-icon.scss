@@ -1,0 +1,26 @@
+.rating-overall-icon {
+  position: relative;
+
+  img {
+    height: 25rem;
+  }
+
+  &__foreground {
+    position: relative;
+    z-index: 1;
+  }
+
+  &__background {
+    background-image: url('/images/hella-drunk-sign-background.png');
+    background-size: 25rem;
+    background-position: bottom;
+
+    height: 25rem;
+    width: 25rem;
+
+    bottom: 0;
+    left: 0;
+    position: absolute;
+    z-index: 0;
+  }
+}

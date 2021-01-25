@@ -1,0 +1,7 @@
+{{#if (gte @rating @value)}}
+  <img src="/images/hdr-full-barrel.png" alt="Full Barrel" class="rating-icon" data-test-rating-icon-full ...attributes/>
+{{else if (lt @rating (sub @value 0.5))}}
+  <img src="/images/hdr-empty-barrel.png" alt="Empty Barrel" class="rating-icon" data-test-rating-icon-empty ...attributes/>
+{{else}}
+  <img src="/images/hdr-half-barrel.png" alt="Half Barrel" class="rating-icon" data-test-rating-icon-half ...attributes/>
+{{/if}}

@@ -7,6 +7,10 @@ module.exports = function (defaults) {
     fingerprint: {
       extensions: ['js', 'css', 'map'],
     },
+
+    'ember-math-helpers': {
+      only: ['sub'],
+    },
   });
 
   // Use `app.import` to add additional libraries to the generated
