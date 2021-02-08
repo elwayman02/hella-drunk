@@ -51,7 +51,7 @@
     "ember-resolver": "^8.0.2",
     "ember-responsive-image": "^1.0.1",
     "ember-source": "~3.24.0",
-    "ember-template-lint": "^2.18.0",
+    "ember-template-lint": "^2.18.1",
     "ember-test-selectors": "^5.0.0",
     "ember-truth-helpers": "^3.0.0",
     "empress-blog": "elwayman02/empress-blog#meta",
