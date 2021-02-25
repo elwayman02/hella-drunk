@@ -1,5 +1,5 @@
 ---
-title: Makers Mark
+title: Maker's Mark
 image: /images/makers-mark.jpg
 imageMeta:
   attribution: Jordan Hawker
