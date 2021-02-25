@@ -41,7 +41,7 @@ been an ambassador for Maker's Mark since 2010:
 ![Image of Maker's Mark Ambassador Card](https://i.imgur.com/AozaA72.png)
 
 So, while I will strive to be fair in my rating, I also want to be transparent about my love for Maker's. 
-It's also my birthday today, so I can think of nothing better to celebrate than the taste of a personally 
+It's my birthday today, so I can think of nothing better to celebrate than the taste of a personally 
 beloved bourbon. It may no longer be the absolute best whiskey I've ever tasted, but it will always be a 
 house favorite. With that disclaimer out of the way, however, let's get down to the tasting!
 
