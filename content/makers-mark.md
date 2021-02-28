@@ -38,7 +38,7 @@ as the first whiskey I ever grew to love. It was introduced to me by my brother-
 started drinking, and I credit that experience with growing a taste for finer spirits. In fact, I've 
 been an ambassador for Maker's Mark since 2010:
 
-![Image of Maker's Mark Ambassador Card](https://i.imgur.com/AozaA72.png)
+![Image of Maker's Mark Ambassador Card](/images/makers-ambassador.png)
 
 So, while I will strive to be fair in my rating, I also want to be transparent about my love for Maker's. 
 It's my birthday today, so I can think of nothing better to celebrate than the taste of a personally 
