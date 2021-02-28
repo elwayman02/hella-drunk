@@ -38,7 +38,7 @@ meta:
 I remember being first impressed with Hudson Whiskey when they came onto the scene with their Baby Bourbon 
 years ago. When they followed it up with this 100% malted barley release, I had to grab a bottle. 
 
-![Image of back bottle label](https://i.imgur.com/hwKhppx.jpg)
+![Image of back bottle label](/images/hudson-single-malt-back.jpg)
 
 Sadly, the release has since been discontinued before Hudson revamped their entire product lineup during a
 major rebrand last year. They still have the Baby Bourbon (under a new name) alongside three different 
