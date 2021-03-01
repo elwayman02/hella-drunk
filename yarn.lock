@@ -6289,7 +6289,8 @@ empress-blog-ghost-helpers@^1.0.0:
 
 empress-blog@elwayman02/empress-blog#meta:
   version "3.0.2"
-  resolved "https://codeload.github.com/elwayman02/empress-blog/tar.gz/127bdec9e03327f470ca0d0debb6bfa1e5c99629"
+  uid "71f766a77af6f7245bcd6906cd53dd79a75fe6f6"
+  resolved "https://codeload.github.com/elwayman02/empress-blog/tar.gz/71f766a77af6f7245bcd6906cd53dd79a75fe6f6"
   dependencies:
     broccoli-funnel "^3.0.3"
     broccoli-merge-trees "^4.2.0"
