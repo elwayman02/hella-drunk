@@ -1,6 +1,6 @@
 ---
 title: Akashi White Oak
-image: /images/akashi-white-oak.png
+image: /images/akashi-white-oak.jpg
 imageMeta:
   attribution: Jordan Hawker
   attributionLink: https://helladrunk.com
