@@ -16,8 +16,8 @@ meta:
     nose: 2
     palate: 2
     finish: 1.5
-    complexity: 1
-    uniqueness: 1
+    complexity: 1.5
+    uniqueness: 1.5
   info:
     type: japanese
     company: Eigashima Shuzo
