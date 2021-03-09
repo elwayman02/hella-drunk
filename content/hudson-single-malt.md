@@ -2,8 +2,8 @@
 title: Hudson Single Malt
 image: /images/hudson-single-malt.jpg
 imageMeta:
-  attribution:
-  attributionLink:
+  attribution: Jordan Hawker
+  attributionLink: https://helladrunk.com
 featured: true
 authors:
   - jordan-hawker
