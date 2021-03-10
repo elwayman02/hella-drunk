@@ -29,8 +29,8 @@ meta:
 
 # An Impressive Newcomer
 
-Uncle Nearest 1884 Small Batch is one of three whiskies offered by this brand established in summer 2017. 
-This particular bittle is one of a series of blends curated by Master Blender Victoria Eady Butler,
+Uncle Nearest 1884 Small Batch is one of three whiskies offered by this brand established in Summer 2017. 
+This particular bottle is one of a series of blends curated by Master Blender Victoria Eady Butler,
 descendent of their namesake, "Uncle" Nearest Green, from barrels hand-picked by the company's CEO Fawn 
 Weaver. Not much is known about what goes into the blend, though my research indicates the mashbill is at least 51% corn.
 
