@@ -6110,7 +6110,7 @@ ember-resolver@^8.0.2:
     ember-cli-version-checker "^5.1.1"
     resolve "^1.17.0"
 
-ember-responsive-image@^1.0.1:
+ember-responsive-image@1.0.1:
   version "1.0.1"
   resolved "https://registry.yarnpkg.com/ember-responsive-image/-/ember-responsive-image-1.0.1.tgz#701ea7038543af715dc4fde321ce6c0a60577197"
   integrity sha512-Fctjkkvfbn3k1r5wZMuOj8e0o+4Fhj/VgDmNKDiCRB9bzAd7EeS4Pzi8R/7SuFHYbgPDlB79/QaRTDSe+jc/Pw==
@@ -6290,7 +6290,6 @@ empress-blog-ghost-helpers@^1.0.0:
 
 empress-blog@elwayman02/empress-blog#meta:
   version "3.0.2"
-  uid "71f766a77af6f7245bcd6906cd53dd79a75fe6f6"
   resolved "https://codeload.github.com/elwayman02/empress-blog/tar.gz/71f766a77af6f7245bcd6906cd53dd79a75fe6f6"
   dependencies:
     broccoli-funnel "^3.0.3"
