@@ -8,7 +8,7 @@ update_configs:
     automerged_updates:
       - match:
           dependency_type: "all"
-          update_type: "all"
+          update_type: "semver:minor"
     version_requirement_updates: "increase_versions"
     commit_message:
       prefix: "[skip netlify]"
