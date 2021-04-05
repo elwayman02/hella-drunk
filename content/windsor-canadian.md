@@ -19,7 +19,7 @@ meta:
     complexity: 1.5
     uniqueness: 1.5
   info:
-    type: blended canadian
+    type: Canadian Blend
     company: Prestige Beverage Group
     distillery: Alberta Distillers Limited
     proof: 80

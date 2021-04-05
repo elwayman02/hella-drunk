@@ -1,0 +1,42 @@
+<div class="release-card" ...attributes>
+  <h2 class="release-card__title" data-test-release-card-title>Release Info</h2>
+  <div class="release-card__body">
+    <div class="release-card__left">
+      {{#if @info.type}}
+        <div data-test-release-card-type><strong>Type:</strong> {{@info.type}}</div>
+      {{/if}}
+      {{#if @info.company}}
+        <div data-test-release-card-company><strong>Company:</strong> {{@info.company}}</div>
+      {{/if}}
+      {{#if @info.distillery}}
+        <div data-test-release-card-distillery><strong>Distillery:</strong> {{@info.distillery}}</div>
+      {{/if}}
+      {{#if @info.proof}}
+        <div data-test-release-card-proof><strong>Proof:</strong> {{@info.proof}}</div>
+      {{/if}}
+      <div data-test-release-card-age>
+        <strong>Age:</strong>
+        {{#if @info.age}}
+          {{@info.age}}
+        {{else}}
+          NAS
+        {{/if}}
+      </div>
+      {{#if @info.website}}
+        <div data-test-release-card-website>
+          <a href={{@info.website}} target="_blank" rel="noopener noreferrer">
+            <strong>Official Website</strong>
+          </a>
+        </div>
+      {{/if}}
+    </div>
+    <div class="release-card__right">
+      {{#if @info.release}}
+        <BottlingInfo @release={{@info.release}} data-test-bottling-info/>
+      {{/if}}
+      {{#if @info.mashbill}}
+        <MashbillInfo @mashbill={{@info.mashbill}} data-test-mashbill-info/>
+      {{/if}}
+    </div>
+  </div>
+</div>

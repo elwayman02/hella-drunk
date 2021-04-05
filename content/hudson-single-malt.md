@@ -19,7 +19,7 @@ meta:
     complexity: 2.5
     uniqueness: 2.5
   info:
-    type: single malt
+    type: American Single Malt
     company: Hudson Whiskey
     distillery: Tuthilltown Distillery
     proof: 92

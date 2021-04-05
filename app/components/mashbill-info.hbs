@@ -1,0 +1,8 @@
+<div class="mashbill-info" ...attributes>
+  <h4 data-test-mashbill-info-title>Mashbill</h4>
+  <div class="mashbill-info__body">
+    {{#each this.grains as |grain|}}
+      <div data-test-mashbill-info-type="{{grain.type}}">{{grain.type}}: {{grain.share}}%</div>
+    {{/each}}
+  </div>
+</div>

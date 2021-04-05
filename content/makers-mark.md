@@ -20,7 +20,7 @@ meta:
     complexity: 3
     uniqueness: 2.5
   info:
-    type: straight bourbon
+    type: Straight Bourbon
     company: Beam Suntory
     distillery: Maker's Mark Distillery
     proof: 90
