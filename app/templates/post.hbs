@@ -33,9 +33,14 @@ into the {body} of the default.hbs template --}}
         {{/if}}
 
         <section class="post-full-content">
+          {{#if post.meta.info}}
+            <ReleaseCard @info={{post.meta.info}} />
+          {{/if}}
+
           <div class="post-content">
             {{markdown-to-html post.content tagName=""}}
           </div>
+
           {{#if post.meta.ratings}}
             <RatingCard @ratings={{post.meta.ratings}} />
           {{/if}}

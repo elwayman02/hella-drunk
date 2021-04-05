@@ -19,7 +19,7 @@ meta:
       complexity: 1.5
       uniqueness: 1.5
     info:
-      type: blend
+      type: American Blend
       company: Barrell Craft Spirits
       proof: 123.8
       age: At Least 10 Years

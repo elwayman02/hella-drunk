@@ -20,7 +20,7 @@ meta:
     complexity: 2.5
     uniqueness: 2.5
   info:
-    type: single malt
+    type: Single Malt Scotch
     company: Diageo
     distillery: Caol Ila Distillery
     proof: 117.4

@@ -20,7 +20,7 @@ meta:
     complexity: 2 
     uniqueness: 2
   info:
-    type: straight bourbon
+    type: Straight Bourbon
     company: Brown-Forman
     distillery: Woodford Reserve Distillery
     proof: 90.4

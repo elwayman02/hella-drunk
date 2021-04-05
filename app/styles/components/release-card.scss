@@ -1,0 +1,35 @@
+.release-card {
+  border: 0.3rem solid black;
+  border-radius: 0.5rem;
+  padding: 1.4rem;
+
+  &__body {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    position: relative;
+  }
+
+  &__left {
+    margin-top: 0.5em;
+    flex-grow: 1;
+  }
+
+  &__right {
+    flex-grow: 1;
+  }
+
+  &__footer {
+    font-size: 1.7rem;
+    font-style: italic;
+    text-align: center;
+  }
+
+  &__title {
+    @at-root h2#{&} { // Override default h2 margins
+      margin: 0 0 0 0;
+    }
+
+    text-align: center;
+  }
+}

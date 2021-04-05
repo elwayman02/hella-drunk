@@ -19,7 +19,7 @@ meta:
     complexity: 1.5
     uniqueness: 1.5
   info:
-    type: japanese
+    type: Japanese Blend
     company: Eigashima Shuzo
     distillery: White Oak Distillery
     proof: 80

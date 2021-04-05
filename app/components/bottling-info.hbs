@@ -1,0 +1,14 @@
+<div class="release-info" ...attributes>
+  <h4 data-test-release-info-title>Bottling</h4>
+  <div class="release-info__body">
+    {{#if @release.year}}
+      <div data-test-release-info-year>Year: {{@release.year}}</div>
+    {{/if}}
+    {{#if @release.batch}}
+      <div data-test-release-info-batch>Batch #: {{@release.batch}}</div>
+    {{/if}}
+    {{#if @release.bottle}}
+      <div data-test-release-info-bottle>Bottle #: {{@release.bottle}}</div>
+    {{/if}}
+  </div>
+</div>

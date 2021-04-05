@@ -19,7 +19,7 @@ meta:
     complexity: 2
     uniqueness: 2
   info:
-    type: blend
+    type: American Blend
     company: Uncle Nearest
     distillery: Nearest Green Distillery
     proof: 93
@@ -32,7 +32,8 @@ meta:
 Uncle Nearest 1884 Small Batch is one of three whiskies offered by this brand established in Summer 2017. 
 This particular bottle is one of a series of blends curated by Master Blender Victoria Eady Butler,
 descendent of their namesake, "Uncle" Nearest Green, from barrels hand-picked by the company's CEO Fawn 
-Weaver. Not much is known about what goes into the blend, though my research indicates the mashbill is at least 51% corn.
+Weaver. Not much is known about what goes into the blend, though my research indicates the mashbill is at 
+least 51% corn.
 
 The nose has nice caramel and vanilla over oak, with just a hint of ethanol sticking around in the glass. 
 The palate reinforces this experience nicely, with all three notes coming through confidently and with 
