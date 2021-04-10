@@ -41,11 +41,11 @@ are almost inseparable; you rarely find Marsanne grapes used without Roussanne a
 thanks to their complimentary characteristics. I was lucky enough to pick up half of Helwig's 
 last case a few years ago as the vintage was selling out, so let's see how it tastes, shall we?
 
-The nose starts with crisp peach and apple, with a sweet tinge almost like gummy candies. The 
-palate turns more tart, bringing forth green apple in a bright, light body with medium acidity. 
-The long finish turns slightly bitter, but a mild creaminess lingers underneath.
+The nose starts with ripe peach and crisp, tart apple over a sweet tinge almost like gummy rings. 
+The palate leans into the tartness, evoking granny smith apples in a bright, light body with 
+medium acidity. The long finish turns slightly bitter, but a creaminess lingers underneath.
 
 While the flavors are mostly one-note all the way through, the clean, refreshing experience 
-makes up for the lack of complexity. There isn't anything too unique about this release, though 
-the varietals themselves are not commonly grown in the US. Regardless, the overall experience 
-is a delightful summer meal accompaniment!
+makes up for the lack of complexity. The varietals themselves are not commonly grown in the US, 
+so it picks up some points there for uniqueness though the wine itself is not particularly unique 
+as white wines go. Regardless, the overall experience is a delightful summer meal accompaniment!
