@@ -14,14 +14,9 @@
       {{#if @info.proof}}
         <div data-test-release-card-proof><strong>Proof:</strong> {{@info.proof}}</div>
       {{/if}}
-      <div data-test-release-card-age>
-        <strong>Age:</strong>
-        {{#if @info.age}}
-          {{@info.age}}
-        {{else}}
-          NAS
-        {{/if}}
-      </div>
+      {{#if @info.age}}
+        <div data-test-release-card-age><strong>Age:</strong> {{@info.age}}</div>
+      {{/if}}
       {{#if @info.website}}
         <div data-test-release-card-website>
           <a href={{@info.website}} target="_blank" rel="noopener noreferrer">
@@ -35,7 +30,10 @@
         <BottlingInfo @release={{@info.release}} data-test-bottling-info/>
       {{/if}}
       {{#if @info.mashbill}}
-        <MashbillInfo @mashbill={{@info.mashbill}} data-test-mashbill-info/>
+        <RecipeInfo @title="Mashbill" @recipe={{@info.mashbill}} data-test-mashbill-info/>
+      {{/if}}
+      {{#if @info.varietals}}
+        <RecipeInfo @title="Varietals" @recipe={{@info.varietals}} data-test-varietal-info/>
       {{/if}}
     </div>
   </div>

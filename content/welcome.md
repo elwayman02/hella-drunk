@@ -13,7 +13,7 @@ tags:
 meta:
 ---
 
-# Glad To See Ya!
+## Glad To See Ya!
 
 Hella Drunk is our new home for sharing ratings and tasting notes 
 for all types of spirits. We're here to celebrate amazing drinks 

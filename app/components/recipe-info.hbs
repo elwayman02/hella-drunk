@@ -1,0 +1,8 @@
+<div class="recipe-info" ...attributes>
+  <h4 data-test-recipe-info-title>{{@title}}</h4>
+  <div class="recipe-info__body">
+    {{#each this.ingredients as |ingredient|}}
+      <div data-test-recipe-info-type="{{ingredient.type}}">{{ingredient.type}}: {{ingredient.share}}%</div>
+    {{/each}}
+  </div>
+</div>

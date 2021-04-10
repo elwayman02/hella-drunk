@@ -33,7 +33,7 @@ meta:
     website: https://www.hudsonwhiskey.com/
 ---
 
-# A Great Barley Malt, If You Can Find It
+## A Great Barley Malt, If You Can Find It
 
 I remember being first impressed with Hudson Whiskey when they came onto the scene with their Baby Bourbon 
 years ago. When they followed it up with this 100% malted barley release, I had to grab a bottle. 

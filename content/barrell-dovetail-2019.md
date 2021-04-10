@@ -30,7 +30,7 @@ meta:
       website: https://www.barrellbourbon.com/dovetail
 ---
 
-# Hypothesis Unclear
+## Hypothesis Unclear
 
 Barrell Craft Spirits' "Dovetail" series is an experimental line of blended releases featuring the same approach at 
 slightly different proofs and formulations. This batch, bottled in February 2019, is a combination of 11 year old 

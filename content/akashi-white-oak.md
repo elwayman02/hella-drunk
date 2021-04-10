@@ -23,10 +23,11 @@ meta:
     company: Eigashima Shuzo
     distillery: White Oak Distillery
     proof: 80
+    age: NAS
     website: http://www.ei-sake.jp/en/whisky.html
 ---
 
-# Smooth But Lacking
+## Smooth But Lacking
 
 Akashi, a blended Japanese whisky, comes from a distillery with very limited output, only being in 
 operation a couple months each year. The bottle I'm tasting is the import available in the United States, 
