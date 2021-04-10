@@ -14,8 +14,8 @@ meta:
   ratings:
     nose: 2.5
     palate: 3
-    finish: 2.5
-    complexity: 2.5
+    finish: 3
+    complexity: 3
     uniqueness: 2
   info:
     type: White
@@ -42,11 +42,13 @@ never much of a white wine fan, but Roche is doing something right with their re
 
 The nose starts with crisp pear but quickly turns buttery, bringing out a more savory essence. 
 The palate is buttery with a full-bodied, almost creamy mouthfeel and medium acidity, bringing 
-in the taste of the American Oak as well. The finish is short but clean as the acidity follows 
-through to the end for a crisp, almost citrus-like conclusion.
+in the taste of the American Oak as well. The finish starts with a short, clean burst as the 
+acidity follows through to the end for a crisp, almost citrus-like feel. However, it gives way 
+to a lingering, but mild tannic sensation that nicely contrasts the crispness that fades away 
+before it.
 
 The American oak aging adds a nice complexity to this release. I've tasted their stainless steel 
 and French oak reserve from the same grapes, and the experience is totally different. This, of 
-course, makes it a somewhat more unique release as well, though buttery Chardonnays are not 
-unheard of. Overall, this is one of my favorite everyday drinking white wines, and I will always 
-keep a few bottles of Roche Chardonnay in my cellar!
+course, makes it a somewhat more unique release as well, though buttery Chardonnays are certainly 
+not unheard of. Overall, this is one of my favorite everyday drinking white wines, and I will 
+always keep a few bottles of Roche Chardonnay in my cellar!
