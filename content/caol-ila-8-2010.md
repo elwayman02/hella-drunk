@@ -28,7 +28,7 @@ meta:
     website: https://www.klwines.com/p/i?i=1430018
 ---
 
-# Gorgeous Islay Malt
+## Gorgeous Islay Malt
 
 This single malt refill hogshead from Caol Ila comes through K&L Wines' exclusive Old Particular series 
 in partnership with Douglas Laing. At cask strength, we're getting a pure, unadultered expression of 

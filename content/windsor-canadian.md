@@ -23,10 +23,11 @@ meta:
     company: Prestige Beverage Group
     distillery: Alberta Distillers Limited
     proof: 80
+    age: NAS
     website: http://www.prestigebevgroup.com/
 ---
 
-# Not Canada's Best
+## Not Canada's Best
 
 Windsor Canadian is a blended whisky owned by Prestige Beverage Group, having recently purchased the 
 brand from Beam Suntory in December 2020. The 1.75 liter bottle I have was purchased several years ago 

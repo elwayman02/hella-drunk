@@ -27,7 +27,7 @@ meta:
     website: https://unclenearest.com/1884-small-batch-whiskey/
 ---
 
-# An Impressive Newcomer
+## An Impressive Newcomer
 
 Uncle Nearest 1884 Small Batch is one of three whiskies offered by this brand established in Summer 2017. 
 This particular bottle is one of a series of blends curated by Master Blender Victoria Eady Butler,

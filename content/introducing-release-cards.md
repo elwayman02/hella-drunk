@@ -28,7 +28,7 @@ meta:
     website: https://helladrunk.com
 ---
 
-# Enhanced Information
+## Enhanced Information
 
 A major focus we have here at Hella Drunk is giving you access to concise information without too much 
 fluff or fanfare. We're not interested in drawing out our review content with extraneous prose and 

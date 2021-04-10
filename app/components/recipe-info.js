@@ -1,8 +1,8 @@
 import Component from '@glimmer/component';
 
-export default class MashbillInfoComponent extends Component {
-  get grains() {
-    return Object.entries(this.args.mashbill).map(function ([
+export default class IngredientInfoComponent extends Component {
+  get ingredients() {
+    return Object.entries(this.args.recipe).map(function ([
       [keyFirstLetter, ...restOfKey],
       value,
     ]) {

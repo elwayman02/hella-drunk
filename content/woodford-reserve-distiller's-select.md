@@ -24,6 +24,7 @@ meta:
     company: Brown-Forman
     distillery: Woodford Reserve Distillery
     proof: 90.4
+    age: NAS
     release:
       batch: 722
       bottle: 7029
@@ -34,7 +35,7 @@ meta:
     website: https://www.woodfordreserve.com/whiskey/straight-bourbon-whiskey/
 ---
 
-# A Modern Classic
+## A Modern Classic
 
 Woodford Reserve is one of the most well-known bourbons in the world, having established itself as a 
 premium brand since being launched by Brown-Forman in 1996. The particular bottle I'm tasting today is 
