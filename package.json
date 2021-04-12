@@ -56,7 +56,7 @@
     "ember-truth-helpers": "^3.0.0",
     "empress-blog": "elwayman02/empress-blog#meta",
     "empress-blog-casper-template": "^3.3.0",
-    "eslint": "^7.23.0",
+    "eslint": "^7.24.0",
     "eslint-config-prettier": "^8.1.0",
     "eslint-plugin-ember": "^10.3.0",
     "eslint-plugin-node": "^11.1.0",
