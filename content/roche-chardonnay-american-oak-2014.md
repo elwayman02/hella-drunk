@@ -16,7 +16,7 @@ meta:
     palate: 3
     finish: 3
     complexity: 3
-    uniqueness: 2
+    uniqueness: 2.5
   info:
     type: White
     company: Roche Winery
