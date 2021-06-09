@@ -9,3 +9,7 @@ updates:
   versioning-strategy: increase
   commit-message:
     prefix: "[skip netlify]"
+  ignore:
+    - dependency-name: ember-responsive-image
+      versions:
+        - "> 2.0.0"
