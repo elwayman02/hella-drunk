@@ -52,7 +52,7 @@
     "ember-responsive-image": "^1.0.1",
     "ember-source": "~3.27.5",
     "ember-template-lint": "^3.5.0",
-    "ember-test-selectors": "^5.3.0",
+    "ember-test-selectors": "^5.4.0",
     "ember-truth-helpers": "^3.0.0",
     "empress-blog": "elwayman02/empress-blog#meta",
     "empress-blog-casper-template": "^3.3.0",
