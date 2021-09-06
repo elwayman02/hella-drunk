@@ -49,7 +49,6 @@
     "ember-page-title": "^6.2.2",
     "ember-qunit": "^5.1.4",
     "ember-resolver": "^8.0.2",
-    "ember-responsive-image": "^1.0.1",
     "ember-source": "~3.28.1",
     "ember-template-lint": "^3.6.0",
     "ember-test-selectors": "^6.0.0",
@@ -70,7 +69,7 @@
     "sass": "^1.39.0"
   },
   "engines": {
-    "node": "10.* || >= 12"
+    "node": ">=14"
   },
   "ember": {
     "edition": "octane"
