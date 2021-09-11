@@ -49,11 +49,12 @@
     "ember-page-title": "^6.2.2",
     "ember-qunit": "^5.1.4",
     "ember-resolver": "^8.0.2",
+    "ember-responsive-image": "kaliber5/ember-responsive-image#master",
     "ember-source": "~3.28.1",
     "ember-template-lint": "^3.6.0",
     "ember-test-selectors": "^6.0.0",
     "ember-truth-helpers": "^3.0.0",
-    "empress-blog": "elwayman02/empress-blog#meta",
+    "empress-blog": "3.4.0",
     "empress-blog-casper-template": "^4.0.1",
     "eslint": "^7.32.0",
     "eslint-config-prettier": "^8.3.0",
@@ -73,5 +74,6 @@
   },
   "ember": {
     "edition": "octane"
-  }
+  },
+  "dependencies": {}
 }

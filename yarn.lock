@@ -2601,6 +2601,11 @@ assign-symbols@^1.0.0:
   resolved "https://registry.yarnpkg.com/assign-symbols/-/assign-symbols-1.0.0.tgz#59667f41fadd4f20ccbc2bb96b8d4f7f78ec0367"
   integrity sha1-WWZ/QfrdTyDMvCu5a41Pf3jsA2c=
 
+ast-types@0.12.4:
+  version "0.12.4"
+  resolved "https://registry.yarnpkg.com/ast-types/-/ast-types-0.12.4.tgz#71ce6383800f24efc9a1a3308f3a6e420a0974d1"
+  integrity sha512-ky/YVYCbtVAS8TdMIaTiPFHwEpRB5z1hctepJplTr3UW5q8TDrpIMCILyk8pmLxGtn2KCtC/lSn7zOsaI7nzDw==
+
 ast-types@0.13.3:
   version "0.13.3"
   resolved "https://registry.yarnpkg.com/ast-types/-/ast-types-0.13.3.tgz#50da3f28d17bdbc7969a3a2d83a0e4a72ae755a7"
@@ -6697,10 +6702,9 @@ ember-resolver@^8.0.2:
     ember-cli-version-checker "^5.1.1"
     resolve "^1.17.0"
 
-ember-responsive-image@^3.0.0:
+ember-responsive-image@^3.0.0, ember-responsive-image@kaliber5/ember-responsive-image#master:
   version "3.1.0"
-  resolved "https://registry.yarnpkg.com/ember-responsive-image/-/ember-responsive-image-3.1.0.tgz#b1a15ef207bfd3895e620ac613585b6beee5513e"
-  integrity sha512-lv7LFNI1HsN/wgW8aRXlGRjhORhvQo0vLT88z+db1Ya3nQxaBj6h5lR3YdAzGh+K3rPcrD2C49PTmVb9ebADIQ==
+  resolved "https://codeload.github.com/kaliber5/ember-responsive-image/tar.gz/9e87f9e44334e5142549c16617676e55a58162fb"
   dependencies:
     "@ember/render-modifiers" "^1.0.2"
     "@embroider/macros" "^0.42.3"
@@ -6905,9 +6909,10 @@ empress-blog-ghost-helpers@^1.0.0:
     lodash "^4.17.19"
     moment "^2.27.0"
 
-empress-blog@elwayman02/empress-blog#meta:
-  version "3.0.2"
-  resolved "https://codeload.github.com/elwayman02/empress-blog/tar.gz/71f766a77af6f7245bcd6906cd53dd79a75fe6f6"
+empress-blog@3.4.0:
+  version "3.4.0"
+  resolved "https://registry.yarnpkg.com/empress-blog/-/empress-blog-3.4.0.tgz#447384eb43db41112ff3cec4b8e83b0b7d253ba5"
+  integrity sha512-6m2c0GT6PNUFzeVJkeJ3yUtTUrCq/9VKsdri1crpF61tXAX/VcK1EKEdQRfOeYVe+doFzhujTShDdvdsr2uzhw==
   dependencies:
     broccoli-funnel "^3.0.3"
     broccoli-merge-trees "^4.2.0"
@@ -6929,8 +6934,11 @@ empress-blog@elwayman02/empress-blog#meta:
     empress-blueprint-helpers "^1.2.1"
     js-yaml "^3.13.1"
     lodash "^4.17.20"
+    recast "^0.17.6"
+    require-directory "^2.1.1"
     resolve "^1.10.1"
     walk-sync "^2.2.0"
+    xml2js "^0.4.19"
     yaml-front-matter "^4.0.0"
 
 empress-blueprint-helpers@^1.2.1:
@@ -11958,6 +11966,16 @@ readdirp@~3.5.0:
   dependencies:
     picomatch "^2.2.1"
 
+recast@^0.17.6:
+  version "0.17.6"
+  resolved "https://registry.yarnpkg.com/recast/-/recast-0.17.6.tgz#64ae98d0d2dfb10ff92ff5fb9ffb7371823b69fa"
+  integrity sha512-yoQRMRrK1lszNtbkGyM4kN45AwylV5hMiuEveUBlxytUViWevjvX6w+tzJt1LH4cfUhWt4NZvy3ThIhu6+m5wQ==
+  dependencies:
+    ast-types "0.12.4"
+    esprima "~4.0.0"
+    private "^0.1.8"
+    source-map "~0.6.1"
+
 recast@^0.18.1, recast@^0.18.5:
   version "0.18.10"
   resolved "https://registry.yarnpkg.com/recast/-/recast-0.18.10.tgz#605ebbe621511eb89b6356a7e224bff66ed91478"
@@ -12483,7 +12501,7 @@ sass@^1.39.0:
   dependencies:
     chokidar ">=3.0.0 <4.0.0"
 
-sax@~1.2.4:
+sax@>=0.6.0, sax@~1.2.4:
   version "1.2.4"
   resolved "https://registry.yarnpkg.com/sax/-/sax-1.2.4.tgz#2816234e2378bddc4e5354fab5caa895df7100d9"
   integrity sha512-NqVDv9TpANUjFm0N8uM5GxL36UgKi9/atZw+x7YFnQ8ckwFGKrl4xX4yWtrey3UJm5nP1kUbnYgLopqWNSRhWw==
@@ -14366,10 +14384,23 @@ xml-name-validator@^3.0.0:
   resolved "https://registry.yarnpkg.com/xml-name-validator/-/xml-name-validator-3.0.0.tgz#6ae73e06de4d8c6e47f9fb181f78d648ad457c6a"
   integrity sha512-A5CUptxDsvxKJEU3yO6DuWBSJz/qizqzJKOMIfUJHETbBw/sFaDxgd6fxm1ewUaM0jZ444Fc5vC5ROYurg/4Pw==
 
+xml2js@^0.4.19:
+  version "0.4.23"
+  resolved "https://registry.yarnpkg.com/xml2js/-/xml2js-0.4.23.tgz#a0c69516752421eb2ac758ee4d4ccf58843eac66"
+  integrity sha512-ySPiMjM0+pLDftHgXY4By0uswI3SPKLDw/i3UXbnO8M/p28zqexCUoPmQFrYD+/1BzhGJSs2i1ERWKJAtiLrug==
+  dependencies:
+    sax ">=0.6.0"
+    xmlbuilder "~11.0.0"
+
 xml@1.0.1:
   version "1.0.1"
   resolved "https://registry.yarnpkg.com/xml/-/xml-1.0.1.tgz#78ba72020029c5bc87b8a81a3cfcd74b4a2fc1e5"
   integrity sha1-eLpyAgApxbyHuKgaPPzXS0ovweU=
+
+xmlbuilder@~11.0.0:
+  version "11.0.1"
+  resolved "https://registry.yarnpkg.com/xmlbuilder/-/xmlbuilder-11.0.1.tgz#be9bae1c8a046e76b31127726347d0ad7002beb3"
+  integrity sha512-fDlsI/kFEx7gLvbecc0/ohLG50fugQp8ryHzMTuW9vSa1GJ0XYWKnhsUx7oie3G98+r56aTQIUB4kht42R3JvA==
 
 xmlchars@^2.2.0:
   version "2.2.0"
