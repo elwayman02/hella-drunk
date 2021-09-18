@@ -6702,9 +6702,41 @@ ember-resolver@^8.0.3:
     ember-cli-version-checker "^5.1.2"
     resolve "^1.20.0"
 
-ember-responsive-image@^3.0.0, ember-responsive-image@kaliber5/ember-responsive-image#master:
+ember-responsive-image@^3.0.0:
   version "3.1.0"
   resolved "https://codeload.github.com/kaliber5/ember-responsive-image/tar.gz/9e87f9e44334e5142549c16617676e55a58162fb"
+  dependencies:
+    "@ember/render-modifiers" "^1.0.2"
+    "@embroider/macros" "^0.42.3"
+    "@glimmer/component" "^1.0.4"
+    "@glimmer/tracking" "^1.0.4"
+    "@rollup/plugin-commonjs" "^11.1.0"
+    "@rollup/plugin-node-resolve" "^6.1.0"
+    async-q "^0.3.1"
+    base-n "^3.0.0"
+    blurhash "^1.1.3"
+    broccoli-caching-writer "^3.0.3"
+    broccoli-funnel "^3.0.3"
+    broccoli-merge-trees "^4.2.0"
+    broccoli-rollup "^5.0.0"
+    broccoli-stew "^3.0.0"
+    ember-auto-import "^1.11.3"
+    ember-cached-decorator-polyfill "^0.1.4"
+    ember-cli-babel "^7.26.6"
+    ember-cli-htmlbars "^5.7.1"
+    ember-cli-typescript "^4.1.0"
+    ember-style-modifier "^0.6.0"
+    fs-extra "^10.0.0"
+    minimatch "^3.0.4"
+    rollup-plugin-terser "^7.0.2"
+    sharp "^0.29.0"
+    silent-error "^1.1.1"
+    walk-sync "^3.0.0"
+
+ember-responsive-image@^3.1.1:
+  version "3.1.1"
+  resolved "https://registry.yarnpkg.com/ember-responsive-image/-/ember-responsive-image-3.1.1.tgz#230879d13f12b220920504003c9791831e9264fd"
+  integrity sha512-mX0b4L/xlgZWoF6KYD33hu+juLsUyhE8Hg+wiPst3YJCEZj+HfXUJQ4rtnh6EXHkSypuTWMSsBizeMvetqhsAQ==
   dependencies:
     "@ember/render-modifiers" "^1.0.2"
     "@embroider/macros" "^0.42.3"
