@@ -6359,10 +6359,10 @@ emojis-list@^3.0.0:
   resolved "https://registry.yarnpkg.com/emojis-list/-/emojis-list-3.0.0.tgz#5570662046ad29e2e916e71aae260abdff4f6a78"
   integrity sha512-/kyM18EfinwXZbno9FyUGeFh87KC8HRQBQGildHZbEuRyWFOmv1U10o9BBp8XVZDVNNuQKyIGIu5ZYAAXJ0V2Q==
 
-empress-blog-casper-template@^4.0.2:
-  version "4.0.2"
-  resolved "https://registry.yarnpkg.com/empress-blog-casper-template/-/empress-blog-casper-template-4.0.2.tgz#b5ae35ab33bc21010ba08af8ce86e29b1357489b"
-  integrity sha512-rn3l+sWhNgpLg4IBIf8GhEe9EAXu7GM2nfyQbstG0Mo7xrJl8lj1Qtc+/HicLZDQzWS002Yr7wJ0yk4aoKDKRQ==
+empress-blog-casper-template@^4.0.3:
+  version "4.0.3"
+  resolved "https://registry.yarnpkg.com/empress-blog-casper-template/-/empress-blog-casper-template-4.0.3.tgz#11413a790184917fa76a10574f96c978b4f75022"
+  integrity sha512-w7Or+Aa6NPwLxN662qCEh+XBZEzawabkIk1jiNpud7fmaYVHZQJcqzB/JwGR927sw1lU2ug2W5/Vr+2aDRfCyA==
   dependencies:
     autoprefixer "^9.8.0"
     cssnano "^4.1.10"
@@ -6371,13 +6371,13 @@ empress-blog-casper-template@^4.0.2:
     ember-cli-postcss "^6.0.1"
     ember-composable-helpers "^4.1.1"
     ember-responsive-image "^3.1.1"
-    empress-blog-ghost-helpers "^1.0.0"
+    empress-blog-ghost-helpers "^1.1.0"
     empress-blueprint-helpers "^1.2.1"
     postcss-color-function "^4.1.0"
     postcss-custom-properties "^9.1.1"
     postcss-easy-import "^3.0.0"
 
-empress-blog-ghost-helpers@^1.0.0:
+empress-blog-ghost-helpers@^1.1.0:
   version "1.1.0"
   resolved "https://registry.yarnpkg.com/empress-blog-ghost-helpers/-/empress-blog-ghost-helpers-1.1.0.tgz#528ddec3be2365e37bbdf24c77d66171022bbc2d"
   integrity sha512-KxW8WV0CkvqiiZYKwU7zBnhI5oe2IKlb7/wDrHwiWsv2lddfwQJXVvKkrDv47yxXb+V7aTsEtyREmbElxpdhcg==
