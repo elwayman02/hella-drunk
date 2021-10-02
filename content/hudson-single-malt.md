@@ -9,8 +9,8 @@ authors:
   - jordan-hawker
 date: Sat Feb 27 2021 19:52:48 GMT-0800 (Pacific Standard Time)
 tags:
-  - whiskey
   - american
+  - whiskey
 meta:
   ratings:
     nose: 3.5
