@@ -57,15 +57,16 @@ first impression of each whiskey down below to give you some insight into the ex
 The nose yielded a sweetness not unlike red berries, with an oaky influence I initially 
 mistook for very light peat smoke. The palate had a light mouthfeel with almost none of 
 the sweetness I'd detected in the nose, leaning into a lightly smoky finish. At first, I 
-thought this was the Highland Park we tasted later, but it turned out to be the **Glen 
-Grant 18 Year** instead!
+thought this was the Highland Park we tasted later, but it turned out to be the 
+**<a href="https://bit.ly/hdglengrant18" target="_blank">Glen Grant 18 Year</a>** instead!
 
 ### Whiskey #2
 
 The second sample led with vanilla sweetness on the nose and a lot more ethanol vapors 
 than the first one. The creamy palate delivered on that promise nicely, with notes of 
 caramel underneath. I got spice on the finish, lending a little kick to the experience. 
-I identified this as the Duncan Taylor offering, but it was instead **The Shin 15 Year**, 
+I identified this as the Duncan Taylor offering, but it was instead 
+**<a href="https://bit.ly/hdshin15" target="_blank">The Shin 15 Year</a>**, 
 making me 0-for-2 (though I didn't know it yet).
 
 ### Whiskey #3
@@ -73,8 +74,9 @@ making me 0-for-2 (though I didn't know it yet).
 The initial nose on this third whiskey was creamy with a slight sickly sweetness to it. 
 The ethanol vapors were weaker than the prior sample, and I detected a light woody scent 
 as well. It had a very light mouthfeel, giving me some mild oakiness on the palate as well 
-as some spice on the finish. Our host revealed this to be the **Duncan Taylor Octave 
-Drumblade 9 Year 2008**, though I had thought it to be The Shin.
+as some spice on the finish. Our host revealed this to be the 
+**<a href="https://bit.ly/hddrumblade2008ws" target="_blank">Duncan Taylor Octave Drumblade 9 Year 2008</a>**, 
+though I had thought it to be The Shin.
 
 ### Whiskey #4
 
@@ -82,14 +84,15 @@ Our fourth sample had a very light nose, smelling of baked goods to me. With a c
 medium mouthfeel, the palate yielded a nice bite that reminded me of a bourbon without 
 the characteristic vanilla and caramel notes. This one had a long finish with very nice 
 spice, leading me to believe it to be the Glen Grant. We later learned it was the 
-**Highland Park Twisted Tattoo 16 Year**, however.
+**<a href="https://bit.ly/hdhptwisted16" target="_blank">Highland Park Twisted Tattoo 16 Year</a>**, however.
 
 ### Whiskey #5
 
 With our fifth and final whiskey of the tasting, the nose led with notes of sea salt 
 and butter, or perhaps salted butter, I suppose. The palate was light but had a beautiful 
 peatiness that builds into a very nice finish. This led to my first (and only) correct 
-guess of the tasting: this was the **10th St. Peated Wine Cask**!
+guess of the tasting: this was the 
+**<a href="https://bit.ly/hd10thpeatedwine" target="_blank">10th St. Peated Wine Cask</a>**!
 
 Overall, this year's Dram Club was another delightful and educating event. While the 
 blind tasting itself was quite challenging, it also underscored how personal tasting 
