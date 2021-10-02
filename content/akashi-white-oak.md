@@ -9,8 +9,8 @@ authors:
   - jordan-hawker
 date: Tues Mar 02 2021 19:53:40 GMT-0800 (Pacific Standard Time)
 tags:
-  - whiskey
   - japanese
+  - whiskey
 meta:
   ratings:
     nose: 2

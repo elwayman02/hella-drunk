@@ -9,9 +9,9 @@ authors:
   - jordan-hawker
 date: Sat Mar 13 2021 18:03:48 GMT-0800 (Pacific Standard Time)
 tags:
-  - whiskey
   - scotch
   - islay
+  - whiskey
 meta:
   ratings:
     nose: 3.5
