@@ -1,5 +1,5 @@
 ---
-title: Whiskies of the World San Francisco 2021
+title: "Whiskies of the World 2021: San Francisco"
 image: images/wotw.jpg
 imageMeta:
   attribution: Whiskies of the World
