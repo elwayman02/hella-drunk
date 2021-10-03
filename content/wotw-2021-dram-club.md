@@ -7,9 +7,12 @@ imageMeta:
 featured: true
 authors:
   - jordan-hawker
-date: Sun Oct 02 2021 22:35:49 GMT-0700 (Pacific Daylight Time)
+date: Sat Oct 02 2021 22:35:49 GMT-0700 (Pacific Daylight Time)
 tags:
   - wotw
+  - scotch
+  - japanese
+  - american
   - whiskey
 ---
 
@@ -85,6 +88,8 @@ medium mouthfeel, the palate yielded a nice bite that reminded me of a bourbon w
 the characteristic vanilla and caramel notes. This one had a long finish with very nice 
 spice, leading me to believe it to be the Glen Grant. We later learned it was the 
 **<a href="https://bit.ly/hdhptwisted16" target="_blank">Highland Park Twisted Tattoo 16 Year</a>**, however.
+
+![Image of Highland Park Twisted Tattoo 16 Year](/images/wotw-2021-hp-twisted-tattoo.jpg)
 
 ### Whiskey #5
 
