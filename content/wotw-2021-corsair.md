@@ -11,6 +11,7 @@ date: Mon Oct 04 2021 11:27:04 GMT-0700 (Pacific Daylight Time)
 tags:
   - wotw
   - american
+  - gin
   - whiskey
 ---
 
