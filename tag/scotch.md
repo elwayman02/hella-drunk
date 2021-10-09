@@ -4,4 +4,4 @@ image:
 imageMeta:
 meta:
 ---
-Posts and ratings about Scotch Whisky
+Posts and ratings about Scotch whisky
