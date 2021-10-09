@@ -38,7 +38,7 @@ much complexity in this dram, but it's a nice, solid scotch.
 
 ![Image of Edradour 9 Year](/images/wotw-2021-edradour-9.jpg)
 
-This 9-year-old scotch from Edradour Distillery was aged in a 1st Fill Marsala Hogshead before 
+This 9-year-old scotch from Edradour Distillery was aged in a first fill marsala hogshead before 
 The Whisky Shop acquired this cask bottled by Signatory Vintage in April 2020. While Bob got 
 caramel and floral notes from the nose, for me there was a mild essence of dark, red berries 
 lingering as well. The palate had a medium mouthfeel, almost reminiscent of milk chocolate 
@@ -50,7 +50,7 @@ spice on the medium-length finish. Overall, a very nice scotch!
 ![Image of Linkwood 11 Year](/images/wotw-2021-linkwood-11.jpg)
 
 Distilled by Linkwood, this second exclusive bottling from Signatory Vintage was 
-matured in a 1st Fill Bourbon Barrel for 11 years until last spring. For Bob, this one 
+matured in a first fill bourbon barrel for 11 years until last spring. For Bob, this one 
 had a lot more ethanol on the nose; underneath that I detected notes of candied orange. 
 The palate itself had a sweetness that reminded me of corn-based whiskies, yielding to 
 a little spice on the fairly short finish.

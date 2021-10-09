@@ -4,4 +4,4 @@ image:
 imageMeta:
 meta:
 ---
-Posts and ratings about Irish Whiskey
+Posts and ratings about Irish Spirits
