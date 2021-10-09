@@ -4,4 +4,4 @@ image:
 imageMeta:
 meta:
 ---
-Posts and ratings about American Whiskey
+Posts and ratings about American Spirits

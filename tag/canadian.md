@@ -4,4 +4,4 @@ image:
 imageMeta:
 meta:
 ---
-Posts and ratings about Canadian Whisky
+Posts and ratings about Canadian Spirits
