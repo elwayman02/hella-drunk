@@ -10,6 +10,8 @@ authors:
 date: Sat Oct 02 2021 22:35:49 GMT-0700 (Pacific Daylight Time)
 tags:
   - wotw
+  - speyside
+  - highland
   - scotch
   - japanese
   - american
