@@ -12,6 +12,8 @@ tags:
   - wotw
   - belgian
   - japanese
+  - islay
+  - highland
   - scotch
   - whiskey
 ---
@@ -91,4 +93,6 @@ hot, and spicy finish.
 
 It's always a treat to see what Kilchoman brings to this event, and this year didn't disappoint. 
 With so many offerings from their distillery alongside a wide variety of other brands, everyone was 
-sure to find a favorite whisky at this booth. We can't wait to see what they bring us next year!
+sure to find a favorite whisky at this booth. Personally, I was close to choosing the Teaninich 12, 
+but ultimately I would go with the Kilchoman Bourbon Influenced Batch if I could only pick one. 
+We can't wait to see what they bring us next year!

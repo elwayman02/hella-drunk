@@ -10,6 +10,8 @@ authors:
 date: Sun Oct 03 2021 14:46:34 GMT-0700 (Pacific Daylight Time)
 tags:
   - wotw
+  - highland
+  - speyside
   - scotch
   - whiskey
 ---
