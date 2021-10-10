@@ -30,7 +30,7 @@ into the palate, though my companion Bob also discovered a heavy spice if it's p
 underneath the tongue where it exhibits more heat. The finish is medium-short, mostly 
 composed of the space that started on the palate.
 
-### <a href="https://bit.ly/hdmhsherrytw" target="blank">M&H Elements Sherry</a>
+### <a href="https://bit.ly/hdmhsherrytw" target="blank">M&H Elements Sherry Cask</a>
 
 Aged in kosher Oloroso and Pedro Ximenez sherry casks, this was our first taste of the
 M&H Elements series. The nose is very light, maybe a mild sweetness under the ethanol. 
@@ -38,7 +38,7 @@ The palate is nice and smooth, with a sweetness that cools the tongue. It passes
 however, leading into a short finish with a little spice. The overall experience is quick 
 but pleasant, though perhaps lacking in complexity.
 
-### <a href="https://bit.ly/hdmhpeatedtw" target="blank">M&H Elements Peated</a>
+### <a href="https://bit.ly/hdmhpeatedtw" target="blank">M&H Elements Peated Cask</a>
 
 Matured in peated Islay casks, this single malt appears to be a blend also featuring their 
 ex-bourbon classic malt. The high ethanol on the nose overpowers any more subtle notes, 
