@@ -4,4 +4,4 @@ image:
 imageMeta:
 meta:
 ---
-Posts and ratings about Japanese Spirits
+Posts and ratings about Japanese spirits

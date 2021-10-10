@@ -4,4 +4,4 @@ image:
 imageMeta:
 meta:
 ---
-Posts and ratings about Canadian Spirits
+Posts and ratings about Canadian spirits

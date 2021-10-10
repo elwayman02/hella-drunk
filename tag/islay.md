@@ -4,4 +4,4 @@ image:
 imageMeta:
 meta:
 ---
-Posts and ratings about Scotch Whisky from the isle of Islay
+Posts and ratings about Scotch whisky from the isle of Islay
