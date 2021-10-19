@@ -2,8 +2,8 @@
 title: "Whiskies of the World 2021: Corsair"
 image: /images/corsair-logo.jpg
 imageMeta:
-  attribution: Jordan Hawker
-  attributionLink: https://helladrunk.com
+  attribution: Corsair Distillery
+  attributionLink: https://www.corsairdistillery.com/
 featured: true
 authors:
   - jordan-hawker
