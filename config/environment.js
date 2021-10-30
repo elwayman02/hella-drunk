@@ -52,7 +52,7 @@ module.exports = function (environment) {
         name: 'GoogleAnalytics',
         environments: ['development', 'production'],
         config: {
-          id: 'G-L0XDG93D0F',
+          id: 'UA-211634749-1',
           // Use `analytics_debug.js` in development
           debug: environment === 'development',
           // Use verbose tracing of GA events
