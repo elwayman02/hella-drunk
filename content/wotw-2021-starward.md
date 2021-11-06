@@ -28,7 +28,7 @@ The nose had a lot of ethanol, making it difficult to pick out any particular sc
 was a bit rough as well, but we detected notes of cranberry relish on a medium mouthfeel. This 
 gives way quickly to the finish, which is a mix of woody and peppery notes.
 
-### <a href="https://bit.ly/30vjkhv" target="blank">Starward Solera</a>
+### <a href="https://bit.ly/hdstarwardsolera" target="blank">Starward Solera</a>
 
 ![Image of Starward Solera](/images/wotw-2021-starward-solera.jpg)
 
