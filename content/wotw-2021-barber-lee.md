@@ -21,8 +21,6 @@ of them. Let's see how they fared in our tastings!
 
 ### <a href="https://bit.ly/hdbarberleebourbon" target="blank">Barber Lee Heirloom Corn Bourbon</a>
 
-![Image of Barber Lee Heirloom Corn Bourbon](/images/wotw-2021-barber-lee-bourbon.jpg)
-
 They call this an "Heirloom Corn" bourbon because it uses some unique varietals 
 in its mashbill, as opposed to the standard "dent corn" used in most bourbons. 
 The nose brings the corn out front and center, mixed with some quite sour notes. 
@@ -31,15 +29,17 @@ that grain, leaning more into a bitterness instead. The finish continues the
 bitter notes, leaving us wondering if this bourbon is simply too young to 
 develop any of the more delightful flavors we'd expect.
 
-### <a href="https://bit.ly/hdbarberleeabsinthetw" target="blank">Barber Lee Absinthe Blanche</a>
+![Image of Barber Lee Heirloom Corn Bourbon](/images/wotw-2021-barber-lee-bourbon.jpg)
 
-![Image of Barber Lee Absinthe Blanche](/images/wotw-2021-barber-lee-absinthe.jpg)
+### <a href="https://bit.ly/hdbarberleeabsinthetw" target="blank">Barber Lee Absinthe Blanche</a>
 
 Not unlike the secret KFC recipe, the Absinthe Blanche features a secret blend of 8 different 
 herbs. The nose comes out swinging with heavy amounts of anise, getting straight to the point. 
 The palate has overpowering amounts of that black licorice flavor while also bringing a 
 surprising amount of heat for an absinthe. The finish is medium-short and pure heat, with no 
 additional notes introduced at this point.
+
+![Image of Barber Lee Absinthe Blanche](/images/wotw-2021-barber-lee-absinthe.jpg)
 
 We'd like to have had time to try some of their other products, such as the flagship Single Malt 
 Rye, but it's hard to pick a favorite from the two we tasted. In general, it felt like both 

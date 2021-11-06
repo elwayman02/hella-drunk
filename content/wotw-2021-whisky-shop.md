@@ -38,8 +38,6 @@ much complexity in this dram, but it's a nice, solid scotch.
 
 ### <a href="https://bit.ly/hdedradour9marsalatws" target="blank">Edradour 9 Year 2011 Marsala Cask</a>
 
-![Image of Edradour 9 Year](/images/wotw-2021-edradour-9.jpg)
-
 This 9-year-old scotch from Edradour Distillery was aged in a first fill marsala hogshead before 
 The Whisky Shop acquired this cask bottled by Signatory Vintage in April 2020. While Bob got 
 caramel and floral notes from the nose, for me there was a mild essence of dark, red berries 
@@ -47,15 +45,17 @@ lingering as well. The palate had a medium mouthfeel, almost reminiscent of milk
 without being too sweet. That note was accompanied by caramel undertones which gave way to 
 spice on the medium-length finish. Overall, a very nice scotch!
 
-### <a href="https://bit.ly/hdlinkwood11bourbontws" target="blank">Linkwood 11 Year 2008 Bourbon Cask</a>
+![Image of Edradour 9 Year](/images/wotw-2021-edradour-9.jpg)
 
-![Image of Linkwood 11 Year](/images/wotw-2021-linkwood-11.jpg)
+### <a href="https://bit.ly/hdlinkwood11bourbontws" target="blank">Linkwood 11 Year 2008 Bourbon Cask</a>
 
 Distilled by Linkwood, this second exclusive bottling from Signatory Vintage was 
 matured in a first fill bourbon barrel for 11 years until last spring. For Bob, this one 
 had a lot more ethanol on the nose; underneath that I detected notes of candied orange. 
 The palate itself had a sweetness that reminded me of corn-based whiskies, yielding to 
 a little spice on the fairly short finish.
+
+![Image of Linkwood 11 Year](/images/wotw-2021-linkwood-11.jpg)
 
 Overall, The Whisky Shop gave us four very interesting whiskies to taste. Out of that selection, 
 my personal favorite was one of their exclusive bottlings, the Edradour 9 Year 2011 Marsala Cask. 
