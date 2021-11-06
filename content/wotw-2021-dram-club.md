@@ -74,6 +74,8 @@ I identified this as the Duncan Taylor offering, but it was instead
 **<a href="https://bit.ly/hdshin15tw" target="_blank">The Shin 15 Year</a>**, 
 making me 0-for-2 (though I didn't know it yet).
 
+![Image of The Shin 15 Year](/images/wotw-2021-shin-15.jpg)
+
 ### Whiskey #3
 
 The initial nose on this third whiskey was creamy with a slight sickly sweetness to it. 

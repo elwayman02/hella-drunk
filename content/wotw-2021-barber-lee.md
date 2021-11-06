@@ -19,7 +19,7 @@ Barber Lee is a relatively young distillery with a surprisingly broad array of p
 They had six different bottles available this year, though we only had time to try two 
 of them. Let's see how they fared in our tastings!
 
-### <a href="https://bit.ly/3pDNZns" target="blank">Barber Lee Heirloom Corn Bourbon</a>
+### <a href="https://bit.ly/hdbarberleebourbon" target="blank">Barber Lee Heirloom Corn Bourbon</a>
 
 ![Image of Barber Lee Heirloom Corn Bourbon](/images/wotw-2021-barber-lee-bourbon.jpg)
 
@@ -31,7 +31,7 @@ that grain, leaning more into a bitterness instead. The finish continues the
 bitter notes, leaving us wondering if this bourbon is simply too young to 
 develop any of the more delightful flavors we'd expect.
 
-### <a href="https://bit.ly/30Y010u" target="blank">Barber Lee Absinthe Blanche</a>
+### <a href="https://bit.ly/hdbarberleeabsinthetw" target="blank">Barber Lee Absinthe Blanche</a>
 
 ![Image of Barber Lee Absinthe Blanche](/images/wotw-2021-barber-lee-absinthe.jpg)
 
