@@ -1,6 +1,6 @@
 ---
 title: "Whiskies of the World 2021: M&H"
-image: /images/wotw-mh-booth.jpg
+image: /images/wotw-2021-mh-booth.jpg
 imageMeta:
   attribution: Jordan Hawker
   attributionLink: https://helladrunk.com
@@ -48,7 +48,7 @@ The finish is extremely short, without any discernible notes.
 
 ### <a href="https://bit.ly/hdmhapexfortifiedtws" target="blank">M&H Apex Fortified Wine Cask</a>
 
-![Image of M&H Apex Fortified Wine Cask](/images/wotw-mh-apex-fortified.jpg)
+![Image of M&H Apex Fortified Wine Cask](/images/wotw-2021-mh-apex-fortified.jpg)
 
 Exclusively available in the United States, this expression from the M&H Apex series is 
 matured in fortified Israeli red wine casks. The nose mixes smokiness with essence of brown 
@@ -58,7 +58,7 @@ of heat.
 
 ### <a href="https://bit.ly/hdscnmh3ws" target="blank">Single Cask Nation M&H 3 Year</a>
 
-![Image of Single Cask Nation M&H 3 Year Old](/images/wotw-scn-mh-3.jpg)
+![Image of Single Cask Nation M&H 3 Year Old](/images/wotw-2021-scn-mh-3.jpg)
 
 While the nature of a single cask series means the pour we tasted may be different 
 from the bottles you might find at your retailer, we'll still give you our thoughts 

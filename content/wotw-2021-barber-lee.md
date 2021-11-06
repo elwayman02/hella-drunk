@@ -1,6 +1,6 @@
 ---
 title: "Whiskies of the World 2021: Barber Lee"
-image: /images/wotw-barber-lee.jpg
+image: /images/wotw-2021-barber-lee.jpg
 imageMeta:
   attribution: Jordan Hawker
   attributionLink: https://helladrunk.com
@@ -21,7 +21,7 @@ of them. Let's see how they fared in our tastings!
 
 ### <a href="https://bit.ly/3pDNZns" target="blank">Barber Lee Heirloom Corn Bourbon</a>
 
-![Image of Barber Lee Heirloom Corn Bourbon](/images/wotw-barber-lee-bourbon.jpg)
+![Image of Barber Lee Heirloom Corn Bourbon](/images/wotw-2021-barber-lee-bourbon.jpg)
 
 They call this an "Heirloom Corn" bourbon because it uses some unique varietals 
 in its mashbill, as opposed to the standard "dent corn" used in most bourbons. 
@@ -33,7 +33,7 @@ develop any of the more delightful flavors we'd expect.
 
 ### <a href="https://bit.ly/30Y010u" target="blank">Barber Lee Absinthe Blanche</a>
 
-![Image of Barber Lee Absinthe Blanche](/images/wotw-barber-lee-absinthe.jpg)
+![Image of Barber Lee Absinthe Blanche](/images/wotw-2021-barber-lee-absinthe.jpg)
 
 Not unlike the secret KFC recipe, the Absinthe Blanche features a secret blend of 8 different 
 herbs. The nose comes out swinging with heavy amounts of anise, getting straight to the point. 
