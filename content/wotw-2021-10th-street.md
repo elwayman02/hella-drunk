@@ -23,22 +23,22 @@ a closer look at two more bottles from 10th Street Distillery!
 
 ### <a href="https://bit.ly/hd10thsinglemalttw" target="blank">10th Street Single Malt</a>
 
-![Image of 10th Street Single Malt](/images/wotw-2021-10thst-single-malt.jpg)
-
 This bottle started with chocolate on the nose, complemented by a nice smoky scent as well. 
 In a contrasting experience, my companion Bob got woodsy, fruity scents from this dram. The 
 palate took me back to my Midwestern roots, evoking thoughts of steak and corn on the cob, 
 whereas Bob felt it had more of a dark caramel essence. The medium-short finish had a nice 
 spice to it, rounding out a whiskey that was a bit of an enigma for us (but still delightful).
 
-### <a href="https://bit.ly/hd10thcalitws" target="blank">10th Street California Coast</a>
+![Image of 10th Street Single Malt](/images/wotw-2021-10thst-single-malt.jpg)
 
-![Image of 10th Street California Coast](/images/wotw-2021-10thst-cali-coast.jpg)
+### <a href="https://bit.ly/hd10thcalitws" target="blank">10th Street California Coast</a>
 
 The nose on this one was light and airy, a mix of lemon citrus and sea breeze. The light 
 mouthfeel on the palate was citrus-forward, leaning into that lemon essence. The finish 
 was medium-short with a light amount of spice. Overall, this dram was very smooth, certainly 
 an easy drinker.
+
+![Image of 10th Street California Coast](/images/wotw-2021-10thst-cali-coast.jpg)
 
 While we wish we'd had time to try more whiskies from 10th Street, we were quite happy with the 
 pours we sampled. I'd honestly say my favorite was probably the Peated Wine Cask we blind tasted 

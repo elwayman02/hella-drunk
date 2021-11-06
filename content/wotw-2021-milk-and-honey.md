@@ -48,17 +48,15 @@ The finish is extremely short, without any discernible notes.
 
 ### <a href="https://bit.ly/hdmhapexfortifiedtws" target="blank">M&H Apex Fortified Wine Cask</a>
 
-![Image of M&H Apex Fortified Wine Cask](/images/wotw-2021-mh-apex-fortified.jpg)
-
 Exclusively available in the United States, this expression from the M&H Apex series is 
 matured in fortified Israeli red wine casks. The nose mixes smokiness with essence of brown 
 sugar. The palate is extremely spicy, yielding a heat that begs for a drop of water 
 to unveil its complexities. The finish is short, mostly just fading away after that onslaught 
 of heat.
 
-### <a href="https://bit.ly/hdscnmh3ws" target="blank">Single Cask Nation M&H 3 Year</a>
+![Image of M&H Apex Fortified Wine Cask](/images/wotw-2021-mh-apex-fortified.jpg)
 
-![Image of Single Cask Nation M&H 3 Year Old](/images/wotw-2021-scn-mh-3.jpg)
+### <a href="https://bit.ly/hdscnmh3ws" target="blank">Single Cask Nation M&H 3 Year</a>
 
 While the nature of a single cask series means the pour we tasted may be different 
 from the bottles you might find at your retailer, we'll still give you our thoughts 
@@ -66,6 +64,8 @@ on this exploration into age statements from the fairly young M&H Distillery. Th
 is a complex mix of coffee, dark chocolate, and sea breeze, without any note being too 
 overpowering or unbalanced. The palate instantly brings out lots of caramel notes 
 (and not much else), yielding to a brief burnt caramel spice on the finish.
+
+![Image of Single Cask Nation M&H 3 Year Old](/images/wotw-2021-scn-mh-3.jpg)
 
 M&H is a young distillery, but it's clear they're dedicated to exploring a wide variety 
 of expressions as they set out to establish Israeli whisky as a player on the world stage. 

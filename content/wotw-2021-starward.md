@@ -21,16 +21,14 @@ Let's see how they fared at our tasting!
 
 ### <a href="https://bit.ly/hdstarwardnovakl" target="blank">Starward Nova</a>
 
-![Image of Starward Nova](/images/wotw-2021-starward-nova.jpg)
-
 The first of two single malts, Nova is matured in a variety of locally-sourced red wine barrels. 
 The nose had a lot of ethanol, making it difficult to pick out any particular scents. The palate 
 was a bit rough as well, but we detected notes of cranberry relish on a medium mouthfeel. This 
 gives way quickly to the finish, which is a mix of woody and peppery notes.
 
-### <a href="https://bit.ly/hdstarwardsolera" target="blank">Starward Solera</a>
+![Image of Starward Nova](/images/wotw-2021-starward-nova.jpg)
 
-![Image of Starward Solera](/images/wotw-2021-starward-solera.jpg)
+### <a href="https://bit.ly/hdstarwardsolera" target="blank">Starward Solera</a>
 
 The Solera, so named for the traditional blending method used for this bottle, is exclusively 
 matured in Apera casks, a local fortified wine similar to Sherry. The nose is full of a nutty, 
@@ -39,6 +37,8 @@ a complex, enticing bouquet. The mouthfeel is quite light, with a bit of the nut
 onto the delicate palate. One of my companions described the flavor as similar to "Girl Scout 
 Cookie Lemon Drops". The finish is a little oaky, providing an extra layer of complexity to round 
 out the experience.
+
+![Image of Starward Solera](/images/wotw-2021-starward-solera.jpg)
 
 This fairly young Australian distillery certainly seems to have a handle on their own unique identity. 
 They're not here to just make the same whisky you can buy anywhere else in the world; rather, they 
