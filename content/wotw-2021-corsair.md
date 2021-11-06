@@ -29,7 +29,7 @@ article, I highly recommend trying it if you're a fan of smoky whiskies!
 
 ### <a href="https://bit.ly/hdcorsairdarkryes" target="blank">Corsair Dark Rye</a>
 
-![Image of Corsair Dark Rye](/images/wotw-corsair-dark-rye.jpg)
+![Image of Corsair Dark Rye](/images/wotw-2021-corsair-dark-rye.jpg)
 
 Our first taste was of the Corsair Dark Rye, which features a mashbill of 61% malted rye, 
 35% malted barley, and 4% malted chocolate rye, making it a full malt whiskey. The 
@@ -40,7 +40,7 @@ a delightful dram.
 
 ### <a href="https://bit.ly/hdcorsairamgin" target="blank">Corsair American Gin</a>
 
-![Image of Corsair American Gin](/images/wotw-corsair-american-gin.jpg)
+![Image of Corsair American Gin](/images/wotw-2021-corsair-american-gin.jpg)
 
 Departing from whiskies for a bit, their next offering was the Corsair American Gin, 
 a very different experience. The nose is clean and herbal, with notes of rosemary. 
@@ -49,7 +49,7 @@ a surprising bitterness. The finish is short but continues the citrus note a bit
 
 ### <a href="https://bit.ly/hdcorsairbarrelgin" target="blank">Corsair Barreled Gin</a>
 
-![Image of Corsair Barreled Gin](/images/wotw-corsair-barreled-gin.jpg)
+![Image of Corsair Barreled Gin](/images/wotw-2021-corsair-barreled-gin.jpg)
 
 Taking the gin concept a step further, Corsair Barreled Gin is aged in the same casks 
 they use in making their spiced rum. The nose was a complex, but delightful mix of 

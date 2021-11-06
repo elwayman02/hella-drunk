@@ -25,7 +25,7 @@ booths here as we show you the rest of what we *did* sample.
 
 ### <a href="https://bit.ly/hd1980impex40" target="blank">ImpEx Collection 40 Year 1980</a>
 
-![Image of ImpEx Collection 40 Year](/images/wotw-impex-collection-40.jpg)
+![Image of ImpEx Collection 40 Year](/images/wotw-2021-impex-collection-40.jpg)
 
 The distributor's own flagship is The ImpEx Collection, a series of specially selected casks 
 from a wide variety of distilleries. This one is a blended 40-year-old sherry butt, the 
@@ -45,7 +45,7 @@ mouthfeel, bringing a nice viscosity on the tongue. It tastes of mild fruits lik
 and green apple, with just a tiny bit of tartness peeking out underneath. The finish is 
 medium-short and very clean, with just a little heat coming through. Delightful!
 
-![Image of Ohishi bottles](/images/wotw-ohishi.jpg)
+![Image of Ohishi bottles](/images/wotw-2021-ohishi.jpg)
 
 ### <a href="https://bit.ly/hdohishi10brandytws" target="blank">Ohishi 10 Year Brandy Cask</a>
 
@@ -59,7 +59,7 @@ much character of its own.
 
 ### <a href="https://bit.ly/hdsaninott" target="blank">The San-In</a>
 
-![Image of The San-In](/images/wotw-san-in.jpg)
+![Image of The San-In](/images/wotw-2021-san-in.jpg)
 
 This whisky is blended by Kurayoshi Distillery in Japan, though it notably doesn't claim to be 
 distilled there. The nose has a sour floral note, leading into a palate with a very light mouthfeel, 
@@ -68,7 +68,7 @@ The finish is very brief, but clean.
 
 ### <a href="https://bit.ly/hdtottoribn" target="blank">The Tottori</a>
 
-![Image of The Tottori](/images/wotw-tottori.jpg)
+![Image of The Tottori](/images/wotw-2021-tottori.jpg)
 
 Named for the Japanese prefecture where Kurayoshi Distillery is located, this is another blend of 
 unknown provenance aged in ex-bourbon barrels. Ethanol leads the nose with a light spice underneath. 
@@ -78,7 +78,7 @@ notes of baking spice, rounding out the experience nicely.
 
 ### <a href="https://bit.ly/hdpenderynlegendws" target="blank">Penderyn Legend</a>
 
-![Image of Penderyn Legend](/images/wotw-penderyn-legend.jpg)
+![Image of Penderyn Legend](/images/wotw-2021-penderyn-legend.jpg)
 
 One of Penderyn's Dragon series offerings, Legend is a Welsh single malt matured in ex-bourbon 
 barrels and finished in madeira casks. The nose is immaculate, with notes of citrus blossom 
@@ -88,7 +88,7 @@ thoughts of vanilla pudding before yielding to baking spice and cardamom on the 
 
 ### <a href="https://bit.ly/hdpenderynrichoaktws" target="blank"></a>
 
-![Image of Penderyn Rich Oak](/images/wotw-penderyn-rich-oak.jpg)
+![Image of Penderyn Rich Oak](/images/wotw-2021-penderyn-rich-oak.jpg)
 
 Joining their flagship Gold range in 2018, Rich Oak is another single malt from Wales. Like all 
 Penderyn whiskies, it's aged in bourbon casks before adding its own unique twists by finishing 

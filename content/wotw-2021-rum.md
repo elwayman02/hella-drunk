@@ -1,6 +1,6 @@
 ---
 title: "Whiskies of the World 2021: Rum"
-image: /images/wotw-kuleana-all.jpg
+image: /images/wotw-2021-kuleana-all.jpg
 imageMeta:
   attribution: Jordan Hawker
   attributionLink: https://helladrunk.com
@@ -24,7 +24,7 @@ We had the opportunity to try offerings from all three, so let's dive in and see
 
 ### <a href="https://bit.ly/hdst1796kl" target="blank">Santa Teresa 1796</a>
 
-![Image of Santa Teresa 1796](/images/wotw-santa-teresa-1796.jpg)
+![Image of Santa Teresa 1796](/images/wotw-2021-santa-teresa-1796.jpg)
 
 The flagship product from Santa Teresa, this Venezuelan blended rum starts in ex-bourbon barrels before 
 entering their Solera aging system. The nose is exploding with caramel, evoking thoughts of Werther's 
@@ -36,7 +36,7 @@ on the tongue.
 
 ### <a href="https://bit.ly/hdkuleanaagricolekl" target="blank">Kuleana Hawaiian Rum Agricole</a>
 
-![Image of Kuleana Hawaiian Rum Agricole](/images/wotw-kuleana-agricole.jpg)
+![Image of Kuleana Hawaiian Rum Agricole](/images/wotw-2021-kuleana-agricole.jpg)
 
 This single estate rhum agricole, their signature product, is fermented from Hawaiian sugarcane juice. 
 The nose is aggressive, with heavy amounts of ethanol atop a sickly sweet smell reminiscent of tropical 
@@ -46,7 +46,7 @@ altogether.
 
 ### <a href="https://bit.ly/hdkuleanahuihuikl" target="blank">Kuleana Huihui</a>
 
-![Image of Kuleana Huihui](/images/wotw-kuleana-huihui.jpg)
+![Image of Kuleana Huihui](/images/wotw-2021-kuleana-huihui.jpg)
 
 This white rum blends their flagship Hawaiian Rum Agricole with a molasses-based rum from 
 Papua New Guinea. The nose is almost pure ethanol with a bit of cucumber mixed with sickly sweetness 
@@ -55,7 +55,7 @@ through. The finish is extremely short, without anything to take real note of.
 
 ### <a href="https://bit.ly/hdkuleanananeakl" target="blank">Kuleana Nanea</a>
 
-![Image of Kuleana Nanea](/images/wotw-kuleana-nanea.jpg)
+![Image of Kuleana Nanea](/images/wotw-2021-kuleana-nanea.jpg)
 
 Kuleana's take on an aged rum, this bottle blends three different international spirits together rather 
 than relying on their own Hawaiian spirits alone. The nose has notes of caramel, which continues into 
@@ -63,7 +63,7 @@ the palate. The rum has a medium mouthfeel on the tongue, turning bitter as it s
 
 ### <a href="https://bit.ly/hddiplomatico2005ws" target="blank">Diplomatico Single Vintage 2005</a>
 
-![Image of Diplomatico Single Vintage 2005](/images/wotw-diplomatico-2005.jpg)
+![Image of Diplomatico Single Vintage 2005](/images/wotw-2021-diplomatico-2005.jpg)
 
 This single vintage offering from their Prestige range of Venezuelan spirits ages for 12 years in 
 ex-bourbon and malt whisky casks before being finished in Oloroso sherry barrels. The nose has notes of 
