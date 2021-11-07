@@ -11,6 +11,8 @@ date: Thurs Oct 28 2021 12:09:14 GMT-0700 (Pacific Daylight Time)
 tags:
   - wotw
   - american
+  - absinthe
+  - bourbon
   - whiskey
 ---
 
