@@ -11,6 +11,7 @@ date: Sat Nov 6 2021 16:25:35 GMT-0700 (Pacific Daylight Time)
 tags:
   - wotw
   - american
+  - rum
   - whiskey
 ---
 
