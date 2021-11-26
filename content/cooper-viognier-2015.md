@@ -29,7 +29,7 @@ meta:
       country: United States
       state: California
       region: California Shenandoah Valley AVA
-      website: https://cooperwines.com/
+    website: https://cooperwines.com/
 ---
 
 # Good, But Unremarkable
