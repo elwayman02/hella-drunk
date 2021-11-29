@@ -6232,6 +6232,15 @@ ember-get-config@^0.3.0:
     broccoli-file-creator "^1.1.1"
     ember-cli-babel "^7.0.0"
 
+ember-get-config@^0.5.0:
+  version "0.5.0"
+  resolved "https://registry.yarnpkg.com/ember-get-config/-/ember-get-config-0.5.0.tgz#8195f3e4c0ff0742182c81ae54aad78d07a24bcf"
+  integrity sha512-y1osD6g8wV/BlDjuaN6OG5MT0iHY2X/yE38gUj/05uUIMIRfpcwOdWnFQHBiXIhDojvAJQTEF1VOYFIETQMkeQ==
+  dependencies:
+    broccoli-file-creator "^1.1.1"
+    ember-cli-babel "^7.26.6"
+    ember-cli-htmlbars "^5.7.1"
+
 ember-getowner-polyfill@^2.0.1:
   version "2.2.0"
   resolved "https://registry.yarnpkg.com/ember-getowner-polyfill/-/ember-getowner-polyfill-2.2.0.tgz#38e7dccbcac69d5ec694000329ec0b2be651d2b2"
@@ -6538,10 +6547,10 @@ emojis-list@^3.0.0:
   resolved "https://registry.yarnpkg.com/emojis-list/-/emojis-list-3.0.0.tgz#5570662046ad29e2e916e71aae260abdff4f6a78"
   integrity sha512-/kyM18EfinwXZbno9FyUGeFh87KC8HRQBQGildHZbEuRyWFOmv1U10o9BBp8XVZDVNNuQKyIGIu5ZYAAXJ0V2Q==
 
-empress-blog-casper-template@^4.0.3:
-  version "4.0.3"
-  resolved "https://registry.yarnpkg.com/empress-blog-casper-template/-/empress-blog-casper-template-4.0.3.tgz#11413a790184917fa76a10574f96c978b4f75022"
-  integrity sha512-w7Or+Aa6NPwLxN662qCEh+XBZEzawabkIk1jiNpud7fmaYVHZQJcqzB/JwGR927sw1lU2ug2W5/Vr+2aDRfCyA==
+empress-blog-casper-template@^4.2.0:
+  version "4.2.0"
+  resolved "https://registry.yarnpkg.com/empress-blog-casper-template/-/empress-blog-casper-template-4.2.0.tgz#e376013e4db9c1a5c37304367e81b89fd1f6cdac"
+  integrity sha512-EW25LaVnbf86UDTUlV0rpRCFz356RKiMJMAmTv1TQDNF8a2ZiP+mbh6yinQVmJHTNB5bmKOTQ2Vs58rrLqOikw==
   dependencies:
     autoprefixer "^9.8.0"
     cssnano "^4.1.10"
@@ -6550,21 +6559,21 @@ empress-blog-casper-template@^4.0.3:
     ember-cli-postcss "^6.0.1"
     ember-composable-helpers "^4.1.1"
     ember-responsive-image "^3.1.1"
-    empress-blog-ghost-helpers "^1.1.0"
+    empress-blog-ghost-helpers "^1.2.0"
     empress-blueprint-helpers "^1.2.1"
     postcss-color-function "^4.1.0"
     postcss-custom-properties "^9.1.1"
     postcss-easy-import "^3.0.0"
 
-empress-blog-ghost-helpers@^1.1.0:
-  version "1.1.0"
-  resolved "https://registry.yarnpkg.com/empress-blog-ghost-helpers/-/empress-blog-ghost-helpers-1.1.0.tgz#528ddec3be2365e37bbdf24c77d66171022bbc2d"
-  integrity sha512-KxW8WV0CkvqiiZYKwU7zBnhI5oe2IKlb7/wDrHwiWsv2lddfwQJXVvKkrDv47yxXb+V7aTsEtyREmbElxpdhcg==
+empress-blog-ghost-helpers@^1.2.0:
+  version "1.2.0"
+  resolved "https://registry.yarnpkg.com/empress-blog-ghost-helpers/-/empress-blog-ghost-helpers-1.2.0.tgz#388622f2f7c072ca3702b759fa32499760eeea89"
+  integrity sha512-fTBY7LCWFgyK3cF2W1oMzJLmz2v7LHVZ0HFaA66XWjQYaf7CbrDPBfPSz/lPwXeodlAsLyMiWotT7regUKAFbw==
   dependencies:
     ember-auto-import "^1.6.0"
     ember-cli-babel "^7.21.0"
     ember-cli-htmlbars "^5.2.0"
-    ember-get-config "^0.2.4"
+    ember-get-config "^0.5.0"
     lodash "^4.17.19"
     moment "^2.27.0"
 
