@@ -6528,10 +6528,10 @@ emojis-list@^3.0.0:
   resolved "https://registry.yarnpkg.com/emojis-list/-/emojis-list-3.0.0.tgz#5570662046ad29e2e916e71aae260abdff4f6a78"
   integrity sha512-/kyM18EfinwXZbno9FyUGeFh87KC8HRQBQGildHZbEuRyWFOmv1U10o9BBp8XVZDVNNuQKyIGIu5ZYAAXJ0V2Q==
 
-empress-blog-casper-template@^4.2.0:
-  version "4.2.0"
-  resolved "https://registry.yarnpkg.com/empress-blog-casper-template/-/empress-blog-casper-template-4.2.0.tgz#e376013e4db9c1a5c37304367e81b89fd1f6cdac"
-  integrity sha512-EW25LaVnbf86UDTUlV0rpRCFz356RKiMJMAmTv1TQDNF8a2ZiP+mbh6yinQVmJHTNB5bmKOTQ2Vs58rrLqOikw==
+empress-blog-casper-template@^4.3.0:
+  version "4.3.0"
+  resolved "https://registry.yarnpkg.com/empress-blog-casper-template/-/empress-blog-casper-template-4.3.0.tgz#62d9e03e7b1f0b7c041d4f672f958bd1140fdf52"
+  integrity sha512-TS3I1+Y5moEScfhZuPMcW4Ha1Hp9A1JZc/84jcoHL9XZfAlKB4tGbd38N5dtJnZ3GhF38xvikAy56bC50D1R/w==
   dependencies:
     autoprefixer "^9.8.0"
     cssnano "^4.1.10"
