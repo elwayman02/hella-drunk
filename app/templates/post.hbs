@@ -9,12 +9,12 @@ into the {body} of the default.hbs template --}}
   </div>
 </header>
 
-{{#let this.model.post as |post|}}
+{{#let @model.post as |post|}}
 
   <main id="site-main" class="site-main outer">
     <div class="inner">
 
-      <article class="post-full {{this.post_class}} {{unless post.image 'no-image'}}">
+      <article class="post-full {{unless post.image 'no-image'}}">
 
         <header aria-label="Post Title" class="post-full-header">
           <section class="post-full-meta">
@@ -91,7 +91,7 @@ into the {body} of the default.hbs template --}}
               <header aria-label="Related Post Header" class="read-next-card-header">
                 <small class="read-next-card-header-sitetitle">&mdash; {{this.blog.title}} &mdash;</small>
 
-                <h3 class="read-next-card-header-title"><a href="{{this.url}}">{{if post.primaryTag.name post.primaryTag.name post.primaryTag}}</a></h3>
+                <h3 class="read-next-card-header-title"><LinkTo @route="tag" @model={{@model.post.primaryTag}}>{{if post.primaryTag.name post.primaryTag.name post.primaryTag}}</LinkTo></h3>
 
               </header>
               <div class="read-next-divider"><SvgIcons::Infinity/></div>
