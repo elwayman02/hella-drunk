@@ -15,7 +15,7 @@ module('Unit | Utility | hella-drunk-rating', function (hooks) {
 
   test('applies correct multipliers', function (assert) {
     let result = calculateRating(this.ratings);
-    assert.equal(
+    assert.strictEqual(
       result,
       CATEGORY_MULTIPLIERS.NOSE +
         CATEGORY_MULTIPLIERS.PALATE +
@@ -29,7 +29,7 @@ module('Unit | Utility | hella-drunk-rating', function (hooks) {
     this.ratings.nose = 0;
 
     let result = calculateRating(this.ratings);
-    assert.equal(
+    assert.strictEqual(
       result,
       CATEGORY_MULTIPLIERS.PALATE +
         CATEGORY_MULTIPLIERS.FINISH +
@@ -42,7 +42,7 @@ module('Unit | Utility | hella-drunk-rating', function (hooks) {
     this.ratings.palate = 0;
 
     let result = calculateRating(this.ratings);
-    assert.equal(
+    assert.strictEqual(
       result,
       CATEGORY_MULTIPLIERS.NOSE +
         CATEGORY_MULTIPLIERS.FINISH +
@@ -55,7 +55,7 @@ module('Unit | Utility | hella-drunk-rating', function (hooks) {
     this.ratings.finish = 0;
 
     let result = calculateRating(this.ratings);
-    assert.equal(
+    assert.strictEqual(
       result,
       CATEGORY_MULTIPLIERS.NOSE +
         CATEGORY_MULTIPLIERS.PALATE +
@@ -68,7 +68,7 @@ module('Unit | Utility | hella-drunk-rating', function (hooks) {
     this.ratings.complexity = 0;
 
     let result = calculateRating(this.ratings);
-    assert.equal(
+    assert.strictEqual(
       result,
       CATEGORY_MULTIPLIERS.NOSE +
         CATEGORY_MULTIPLIERS.PALATE +
@@ -81,7 +81,7 @@ module('Unit | Utility | hella-drunk-rating', function (hooks) {
     this.ratings.uniqueness = 0;
 
     let result = calculateRating(this.ratings);
-    assert.equal(
+    assert.strictEqual(
       result,
       CATEGORY_MULTIPLIERS.NOSE +
         CATEGORY_MULTIPLIERS.PALATE +
@@ -95,7 +95,7 @@ module('Unit | Utility | hella-drunk-rating', function (hooks) {
     this.ratings.complexity = 0.5;
 
     let result = calculateRating(this.ratings);
-    assert.equal(
+    assert.strictEqual(
       result,
       CATEGORY_MULTIPLIERS.NOSE +
         CATEGORY_MULTIPLIERS.PALATE * this.ratings.palate +
@@ -115,6 +115,6 @@ module('Unit | Utility | hella-drunk-rating', function (hooks) {
     };
 
     let result = calculateRating(ratings);
-    assert.equal(result, 100);
+    assert.strictEqual(result, 100);
   });
 });
