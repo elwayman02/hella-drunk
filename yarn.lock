@@ -6168,10 +6168,10 @@ ember-meta@^2.0.0:
     ember-cli-htmlbars "^5.7.1"
     ember-truth-helpers "^3.0.0"
 
-ember-metrics@^1.4.2:
-  version "1.4.2"
-  resolved "https://registry.yarnpkg.com/ember-metrics/-/ember-metrics-1.4.2.tgz#3176b94d28a397f16a9755f5993067ea6812c156"
-  integrity sha512-U6hCm9cliCrdqKXOBVbcJwlXU2CPdt2O42eDmdpFZEQAKPOjHt8WFkx+m9arJEvz6azEBplm2S3ZEHHA0q3Icw==
+ember-metrics@^1.5.1:
+  version "1.5.1"
+  resolved "https://registry.yarnpkg.com/ember-metrics/-/ember-metrics-1.5.1.tgz#9989baff846d75c57cf22fbcc50ac3b58cfa9f22"
+  integrity sha512-vYzzCf2ZbYYa5DXWci8h0twxQRvDGW1Gm01ZseJhNTW8vclmHuBuYbtk9QYiT7IvNUnl5eGGzfenbFEozFximA==
   dependencies:
     broccoli-funnel "^3.0.2"
     ember-cli-babel "^7.26.6"
